@@ -16,11 +16,11 @@ cd Birthday
 && 
 ### Python2-
 ```
-python -m SimpleHTTPServer 8001
+python -m SimpleHTTPServer 8081
 ```
 ### Python3-
 ```
-python -m http.server 8001
+python -m http.server 8081
 ```
 
 visit http://localhost:8081 in your browser.
