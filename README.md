@@ -14,12 +14,18 @@ cd Birthday
 ```
 
 && 
-
+### Python2-
 ```
-python -m SimpleHTTPServer --port  8081
+python -m SimpleHTTPServer 8001
+```
+### Python3-
+```
+python -m http.server 8001
 ```
 
 visit http://localhost:8081 in your browser.
+<br>
+To stop server press Ctrl+C in Keyboard
 
 ## If you have nodejs installed
 ```
