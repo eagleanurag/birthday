@@ -32,11 +32,8 @@ npm run server-node
 ```
 visit http://localhost:8081 in your browser.
 
-## happy Birthday
-
 > <b>Modify the configuration of config.js to make a super creative web page for your beloved. Happy birthday, if you like, fork or star~</b>
 
-<img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
 
 ## TODO
 * [x] Each line of blessing text can be accompanied by a picture
@@ -71,8 +68,8 @@ var config = {
  * Tip: The picture is best to use a square or close to a square, it looks better
  */
  imgs: {
- "Beloved little cute": "./imgs/xiaokeai.png",
- // "Today is your birthday": "./imgs/birthday.jpg",
+ "Beloved little cute": "./imgs/xyz.png",
+ // "Today is your birthday": "./imgs/xyz.jpg",
  },
  // Button text description, the following is the default button text, in English, you can change it to your favorite text
  desc: {
@@ -89,26 +86,8 @@ var config = {
 ```
 
 
-## Screenshot demo
-<img src="./assets/birthday-demo2.gif"/>
-
-## Zhihu tutorial
-[https://zhuanlan.zhihu.com/p/85899661](https://zhuanlan.zhihu.com/p/85899661)
-
-## end
-If you like it, pay attention to [霸都丶傲天](https://github.com/ajlovechina)~ \
-Regularly update the love web page template, resume template, knowledge notes, PDF books, original in-depth technology sharing, etc.: heart:
-
-* Knowing: [霸都丶傲天](https://www.zhihu.com/people/AJLoveChina)
-* Github:[霸都丶傲天](https://github.com/ajlovechina)
 
 ## QA
 > How to modify the music?
 > 
 > Answer: Overwrite the `hbd.mp3` under the `assets` directory with your own mp3 music files, remember to have the same name after overwriting!
-
-
-## Link
-* [First Issue: Love Tree🌴 Collect the moments of love forever (WeChat, QQ can be viewed perfectly)](https://github.com/AJLoveChina/LoveTree)
-* [Phase 2: :cake: Change the data and make a super creative web birthday blessing for your loved one~ (Happy Birthday)](https://github.com/AJLoveChina/birthday)
-* [Phase 3: :balloon: Coffee on the left bank of the Seine. The confession balloon flew into my heart. ](https://github.com/AJLoveChina/loveBalloon)
